@@ -67,6 +67,8 @@ A full-stack blogging platform built with Node.js, Express, MongoDB, and EJS. Us
   npm run dev
   ```
 - Visit [http://localhost:8000](http://localhost:8000) (or your configured port)
+- Render deployed URL
+- Visit [https://blog-app-backend-qw0s.onrender.com](https://blog-app-backend-qw0s.onrender.com) (or your configured port) 
 
 ## Environment Variables
 
